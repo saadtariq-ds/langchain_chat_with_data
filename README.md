@@ -7,4 +7,5 @@
 3. Vector Stores and Embeddings
 4. Retrievals
 5. Question Answering
+6. Chat
  
